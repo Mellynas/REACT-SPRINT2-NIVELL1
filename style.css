@@ -10,3 +10,17 @@
 .web{
     color: red;
 }
+@media all and (max-width:600px){
+
+    .d-block{
+        height: 275px;
+      
+    }
+}
+@media all and (max-width:800px){
+
+    .d-block{
+        height: 275px;
+      
+    }
+}
